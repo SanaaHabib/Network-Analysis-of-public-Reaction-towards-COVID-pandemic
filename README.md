@@ -1,5 +1,5 @@
 # Network-Analysis-of-public-Reaction-towards-COVID-pandemic
-In this Project We have Aalysis the tweets and generate Network graph based on the Uniques Words and Bigrams.
+In this Project We have Aalyzed the tweets and generate Network graph based on the Uniques Words (Nodes) and Bigrams (Edges).
 
 # Data Scrapping
  We have Python Script file, which we have use it for Scrapping, just put the Hashtag Name and get all the Data.
